@@ -1,2 +1,2 @@
-# CL-Model
-Clash-modle.ini
+openclash
+在线模板
