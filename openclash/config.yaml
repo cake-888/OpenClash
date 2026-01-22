@@ -16,8 +16,6 @@ proxy-providers:
       interval: 300
     proxy: 直连
 
-
-
 proxies:
   - {name: 直连, type: direct}
   - {name: 拒绝, type: reject}
@@ -86,8 +84,7 @@ tun:
 
 profile:
   store-selected: true
-  store-fake-ip: true
- 
+  store-fake-ip: true 
 
 # ========================
 # 策略组定义
